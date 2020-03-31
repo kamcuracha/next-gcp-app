@@ -10,7 +10,7 @@
     "deploy": "gcloud config set project vaulted-codex-269423 && gcloud app deploy app.yaml --version=0-1-0"
   },
   "dependencies": {
-    "next": "^9.2.2",
+    "next": "^9.3.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
